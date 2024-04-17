@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **angular, react, vue**
 
-- 📫 How to reach me **darioegb@gmail.com**
-
 <h3 align="left">About Me:</h3>
 <p>I'm a frontend developer with experience in modern web technologies such as Angular, React, and Vue. I have a strong passion for continuous learning and improving my skills. Feel free to reach out if you have any questions about my projects or the technologies I work with.</p>
 
